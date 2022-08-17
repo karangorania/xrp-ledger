@@ -21,7 +21,9 @@ Before you request you have to add custom token to your wallet. Using XRP Testne
 
 - [XRP Toolkit Testnet](https://test.xrptoolkit.com/)
 
-- Tooken Address
+- [For More Information](https://roadtoweb3.notion.site/Docs-55affd9cfe6147b5b0402113f14c3843)
+
+- Token Address
 
 ```bash
 LOX : rn2sbUWaB2iDPjuDncEUXePRwtVdafTBk3
