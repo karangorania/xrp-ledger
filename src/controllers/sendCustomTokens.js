@@ -36,8 +36,6 @@ async function main(tokenName, wallet_address, tokenQty) {
   const pay_signed = hot_wallet.sign(pay_prepared);
   const pay_result = await client.submitAndWait(pay_signed.tx_blob);
 
-  console.log(pay_result);
-
   client.disconnect();
 }
 
