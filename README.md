@@ -21,8 +21,6 @@ Before you request you have to add custom token to your wallet. Using XRP Testne
 
 - [XRP Toolkit Testnet](https://test.xrptoolkit.com/)
 
-- [For More Information](https://roadtoweb3.notion.site/Docs-55affd9cfe6147b5b0402113f14c3843)
-
 - Token Address
 
 ```bash
@@ -41,10 +39,10 @@ After you get Wallet Address & Wallet Seed you can request your required three t
 
 You have to provide four things to received tokens in your account.
 
-1 Your Name
-2 Token Name ( Only three SOX, LOX, NFX )
-3 Your Wallet Address ( Not Seed Phrase )
-4 Token Amount
+- 1 Your Name
+- 2 Token Name ( Only three SOX, LOX, NFX )
+- 3 Your Wallet Address ( Not Seed Phrase )
+- 4 Token Amount
 
 ```bash
 {
@@ -54,6 +52,10 @@ You have to provide four things to received tokens in your account.
     "tokenQty": "2000"
 }
 ```
+
+## For More Information
+
+- [Refer to this Doc](https://roadtoweb3.notion.site/Docs-55affd9cfe6147b5b0402113f14c3843)
 
 ## For Developers
 
