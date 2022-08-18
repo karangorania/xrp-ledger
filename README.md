@@ -17,9 +17,9 @@ This API will give you fresh Hot wallet. You have write the name. It will give y
 
 ## Create Wallet API - 2
 
-Before you request you have to add custom token to your wallet. Using XRP Testnet Toolkit.
+Before you request you have to add custom token to your wallet. Using XRP Create Trust Line API.
 
-- [XRP Toolkit Testnet](https://test.xrptoolkit.com/)
+- [XRP Create Trust Line API](https://github.com/karangorania/xrp-ledger-create-trustline)
 
 - Token Address
 
