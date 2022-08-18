@@ -28,8 +28,7 @@ async function main(tokenName, wallet_address, tokenQty) {
       issuer: issuer_address,
     },
     Destination: receiver_address,
-    DestinationTag: 1, // Needed since we enabled Require Destination Tags
-    // on the hot account earlier.
+    // DestinationTag: 1, // We don't Need this
   };
 
   const pay_prepared = await client.autofill(send_token_tx);
